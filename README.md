@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akash Subhash Bhoi</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<img width="100%" height="300px" src="https://thumbs.gfycat.com/DependableJoyousAsianwaterbuffalo.webp"/>
+<h1>Hi 👋, I'm Akash Subhash Bhoi</h1>
+<h3>Full Stack Web Developer</h3>
+<p align="left">A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.</p>
 
+
+<img src="https://i0.wp.com/codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif?fit=880%2C440&ssl=1" width="150px" height="150px" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhoi2815&label=Profile%20views&color=0e75b6&style=flat" alt="akashbhoi2815" /> </p>
-
-<p align="left"> <a href="https://twitter.com/akashbhoi2809" target="blank"><img src="https://img.shields.io/twitter/follow/akashbhoi2809?logo=twitter&style=for-the-badge" alt="akashbhoi2809" /></a> </p>
 
 - 🌱 I’m currently learning **React, MongoDB , Data structure and Algorithm**
 

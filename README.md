@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm Akash Subhash Bhoi</h1>
 <h3>Full Stack Web Developer</h3>
 <div>
-<img src="https://thumbs.gfycat.com/ExaltedAccomplishedHornedtoad-mobile.jpg" width="350px" height="150px" align="right"/>
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
 <p align="left">A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.</p>
 </div>
 

@@ -3,7 +3,11 @@
 <h3>Full Stack Web Developer</h3>
 <div>
 <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="250px" height="200px" align="right"/>
-<p align="left">A motivated individual with in-depth knowledge of languages and development tools, seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.</p>
+<p align="left">An aspiring, creative Full Stack Web Developer, specializing in Mern
+Stack. Having in-depth knowledge of both front-end as well as
+back-end coding languages and web development tools, looking
+for a job opportunity in a technology-driven firm to showcase my
+skills and make the best use to develop new knowledge.</p>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhoi2815&label=Profile%20views&color=0e75b6&style=flat" alt="akashbhoi2815" /> </p>

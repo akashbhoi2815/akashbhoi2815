@@ -20,7 +20,7 @@ skills and make the best use to develop new knowledge.</p>
 
 - 📫 How to reach me **manishbhoi1997@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IwtwNC5EhqGGbUFDdtzXqAjjBT1VlXYo/view?usp=sharing](https://drive.google.com/file/d/1IwtwNC5EhqGGbUFDdtzXqAjjBT1VlXYo/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1IwtwNC5EhqGGbUFDdtzXqAjjBT1VlXYo/view?usp=sharing](https://drive.google.com/file/d/1IwtwNC5EhqGGbUFDdtzXqAjjBT1VlXYo/view?usp=sharing)
 
 - ⚡ Fun fact **Exploring new things**
 

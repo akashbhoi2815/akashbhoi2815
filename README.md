@@ -12,7 +12,7 @@ skills and make the best use to develop new knowledge.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbhoi2815&label=Profile%20views&color=0e75b6&style=flat" alt="akashbhoi2815" /> </p>
 
-- 🌱 I’m currently learning **React, MongoDB , Data structure and Algorithm**
+- 🌱 I’m currently learning **Nodejs, MongoDB, Data structure, and Algorithm**
 
 - 📝 I regularly write articles on [https://medium.com/@manishbhoi1997/collaborative-project-work-ce4333f32070](https://medium.com/@manishbhoi1997/collaborative-project-work-ce4333f32070)
 

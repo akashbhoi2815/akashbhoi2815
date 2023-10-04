@@ -1,4 +1,4 @@
-<img width="100%" height="300px" src="[https://thumbs.gfycat.com/DependableJoyousAsianwaterbuffalo.webp](https://media.licdn.com/dms/image/C4D16AQEnOI0XFByrOA/profile-displaybackgroundimage-shrink_350_1400/0/1657555788673?e=1701907200&v=beta&t=UTKeWMsL6VSKEDV5Lkw_IuHsFXWr9IP1F8ax5mWWRgk)"/>
+
 <h1>Hi 👋, I'm Akash Subhash Bhoi</h1>
 <h3>Full Stack Web Developer</h3>
 <div>

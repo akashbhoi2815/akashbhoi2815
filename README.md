@@ -14,8 +14,6 @@ skills and make the best use to develop new knowledge.</p>
 
 - 🌱 I’m currently learning **Nodejs, MongoDB, Data structure, and Algorithm**
 
-- 📝 I regularly write articles on [https://medium.com/@manishbhoi1997/collaborative-project-work-ce4333f32070](https://medium.com/@manishbhoi1997/collaborative-project-work-ce4333f32070)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, React and Node Js**
 
 - 📫 How to reach me **manishbhoi1997@gamil.com**

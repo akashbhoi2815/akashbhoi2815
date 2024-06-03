@@ -17,7 +17,7 @@ skills and make the best use to develop new knowledge.</p>
 - 💬 Ask me about **HTML, CSS, JavaScript, React and Node Js**
 
 - 📫 How to reach me **manishbhoi1997@gamil.com**
-- 
+  
 - ⚡ Fun fact **Exploring new things**
 
 ### Blogs posts
